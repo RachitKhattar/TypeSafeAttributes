@@ -1,4 +1,4 @@
 enum EventName: String {
-    case eventOne = "Event One"
-    case eventTwo = "Event Two"
+    case person = "Person"
+    case order = "Order"
 }
